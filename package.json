@@ -1,0 +1,17 @@
+{
+  "name": "lab_github-vercel_kindy-paito",
+  "version": "1.0.0",
+  "description": "WEB322_Lab GitHub Vercel",
+  "keywords": [
+    "Lab02"
+  ],
+  "license": "ISC",
+  "author": "Kindy Paito",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "scripts":{
+    "start": "node index.js"
+  }
+}
